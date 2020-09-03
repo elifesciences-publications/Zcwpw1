@@ -1,3 +1,9 @@
+This code is associated with the paper from Wells et al., "ZCWPW1 is recruited to recombination
+hotspots by PRDM9 and is essential for
+meiotic double strand break repair". eLife, 2020. http://doi.org/10.7554/eLife.53392
+
+
+
 [![bioRxiv](https://img.shields.io/badge/bioRxiv-10.1101%2F821678v1-%23bd2736)](https://doi.org/10.1101/821678)
 [![DOI](https://zenodo.org/badge/158556718.svg)](https://zenodo.org/badge/latestdoi/158556718)
 
